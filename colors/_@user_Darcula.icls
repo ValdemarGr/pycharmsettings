@@ -1,0 +1,72 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-02-11T13:01:17</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-02-11T13:36:48</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="5f76c6" />
+      </value>
+    </option>
+    <option name="Scala Anonymous Parameter">
+      <value>
+        <option name="FOREGROUND" value="8a2a2d" />
+      </value>
+    </option>
+    <option name="Scala Braces">
+      <value>
+        <option name="FOREGROUND" value="c3f7ff" />
+      </value>
+    </option>
+    <option name="Scala Class">
+      <value>
+        <option name="FOREGROUND" value="5f76c6" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="9e7797" />
+      </value>
+    </option>
+    <option name="Scala For statement value">
+      <value>
+        <option name="FOREGROUND" value="96c66f" />
+      </value>
+    </option>
+    <option name="Scala Local method call">
+      <value>
+        <option name="FOREGROUND" value="9e7797" />
+      </value>
+    </option>
+    <option name="Scala Local value">
+      <value>
+        <option name="FOREGROUND" value="8e72f6" />
+      </value>
+    </option>
+    <option name="Scala Object">
+      <value>
+        <option name="FOREGROUND" value="855cc6" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="536ab1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Parentheses">
+      <value>
+        <option name="FOREGROUND" value="bfb87c" />
+      </value>
+    </option>
+    <option name="Scala Pattern value">
+      <value>
+        <option name="FOREGROUND" value="65b9c6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

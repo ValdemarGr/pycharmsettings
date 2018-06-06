@@ -1,0 +1,73 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Concurrency annotation issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>DeclarationGroovy</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="D:/ProgStuff/GitHub/Scalastuff/shapeless/l_shapeless" value="PREVIEW" />
+            <entry key="D:/ProgStuff/GitHub/scalagu/scalagu" value="PREVIEW" />
+            <entry key="D:/University/DBproject2" value="PREVIEW" />
+            <entry key="D:/Work/GitHub/LetsGo/backend" value="PREVIEW" />
+            <entry key="D:/Work/GitHub/cerno/cerno-journal" value="PREVIEW" />
+            <entry key="D:/Work/GitHub/cerno/cerno-sbt" value="PREVIEW" />
+            <entry key="D:/Work/GitHub/cvr-classification" value="PREVIEW" />
+            <entry key="D:/Work/GitHub/persondata" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
