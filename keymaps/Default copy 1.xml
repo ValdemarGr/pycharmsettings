@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="RecentFiles" />
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>

@@ -3,7 +3,7 @@
     <property name="created">2018-02-11T13:01:17</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-11T13:36:48</property>
+    <property name="modified">2018-06-07T13:05:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -14,7 +14,7 @@
     </option>
     <option name="Scala Anonymous Parameter">
       <value>
-        <option name="FOREGROUND" value="8a2a2d" />
+        <option name="FOREGROUND" value="cabb32" />
       </value>
     </option>
     <option name="Scala Braces">
