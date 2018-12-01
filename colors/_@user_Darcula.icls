@@ -3,9 +3,20 @@
     <property name="created">2018-02-11T13:01:17</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-06-07T13:05:09</property>
+    <property name="modified">2018-12-01T02:31:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+  </colors>
   <attributes>
     <option name="DEFAULT_CLASS_NAME">
       <value>
